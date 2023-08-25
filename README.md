@@ -23,3 +23,14 @@ This project was made on 25 August,2023.
 ### Image of form hosted at web browser:
 ![Screenshot (34)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/0da616ca-96a7-4310-950b-200ceecf33c1)
 
+![Screenshot (35)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/ccf374ca-8abd-42e1-b247-428f89839626)
+
+![Screenshot (36)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/b8686f93-5e64-4ca2-aba4-32242beb9fd7)
+
+![Screenshot (37)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/601e755a-97a9-46aa-862e-65c56d8f0300)
+
+![Screenshot (38)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/b8226a36-3927-4de9-b228-92746d0d0729)
+
+![Screenshot (39)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/647ced74-d9d6-479d-95e2-027cc333a9bb)
+
+![Screenshot (40)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/4f5fa0f8-128c-447a-8ba1-41bb7c334b5c)
