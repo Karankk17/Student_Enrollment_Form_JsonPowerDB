@@ -33,4 +33,4 @@ This project was made on 25 August,2023.
 
 ![Screenshot (39)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/647ced74-d9d6-479d-95e2-027cc333a9bb)
 
-![Screenshot (40)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/4f5fa0f8-128c-447a-8ba1-41bb7c334b5c)
+![Screenshot (40)](https://github.com/Karankk17/Student_Enrollment_Form_JsonPowerDB/assets/95435514/53ce190e-c030-4b0f-869e-11e232eff617)
