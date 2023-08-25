@@ -21,4 +21,4 @@ This project was made on 25 August,2023.
 + This data is stored in a database name SCHOOL-DB with STUDENT-TABLE relation in JsonPowerDB.
 
 ### Image of form hosted at web browser:
-![image 1](public_html/screenshot/Screenshot (34).png)
+![image 1](/../master/public_html/screenshot/Screenshot (34).png)
